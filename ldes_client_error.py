@@ -1,0 +1,2 @@
+class LdesClientError(Exception):
+    pass
